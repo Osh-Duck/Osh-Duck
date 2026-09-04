@@ -1,7 +1,8 @@
+
 # OshDuck
 
 
-I am a backend web developer who currently makes random projects which serve no purpose.
+I am a backend web developer who mainly codes in Java.
 
 
 
@@ -12,3 +13,5 @@ I am a backend web developer who currently makes random projects which serve no 
 [![My Skills](https://skillicons.dev/icons?i=cs,py,php,ts,vite,linux&perline=9)](https://skillicons.dev)
 ## Main Projects
 Nothing here yet.
+
+

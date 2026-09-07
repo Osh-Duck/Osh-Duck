@@ -2,7 +2,7 @@
 # OshDuck
 
 
-I am a backend web developer who mainly codes in Java.
+I am a backend web developer who mainly codes in Java. Currently, I am in high school trying to get into Stanford.
 
 
 
